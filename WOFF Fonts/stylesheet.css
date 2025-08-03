@@ -1,0 +1,270 @@
+@font-face {
+    font-family: 'Margest';
+    src: url('Margest-MediumItalic.woff2') format('woff2'),
+        url('Margest-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Margest';
+    src: url('Margest-Light.woff2') format('woff2'),
+        url('Margest-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Margest';
+    src: url('Margest-ExtraBold.woff2') format('woff2'),
+        url('Margest-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Margest';
+    src: url('Margest-Medium.woff2') format('woff2'),
+        url('Margest-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Margest';
+    src: url('Margest-Bold.woff2') format('woff2'),
+        url('Margest-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Margest';
+    src: url('Margest-Regular.woff2') format('woff2'),
+        url('Margest-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Margest';
+    src: url('Margest-BlackItalic.woff2') format('woff2'),
+        url('Margest-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Margest';
+    src: url('Margest-BoldItalic.woff2') format('woff2'),
+        url('Margest-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Margest';
+    src: url('Margest-LightItalic.woff2') format('woff2'),
+        url('Margest-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Margest';
+    src: url('Margest-ExtraBoldItalic.woff2') format('woff2'),
+        url('Margest-ExtraBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Margest';
+    src: url('Margest-SemiBold.woff2') format('woff2'),
+        url('Margest-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Margest';
+    src: url('Margest-Italic.woff2') format('woff2'),
+        url('Margest-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Margest';
+    src: url('Margest-Black.woff2') format('woff2'),
+        url('Margest-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Saldo';
+    src: url('Saldo-Light.woff2') format('woff2'),
+        url('Saldo-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Saldo';
+    src: url('Saldo-Bold.woff2') format('woff2'),
+        url('Saldo-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Saldo';
+    src: url('Saldo-ExtraBold.woff2') format('woff2'),
+        url('Saldo-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Saldo';
+    src: url('Saldo-BoldItalic.woff2') format('woff2'),
+        url('Saldo-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Margest';
+    src: url('Margest-SemiBoldItalic.woff2') format('woff2'),
+        url('Margest-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Saldo';
+    src: url('Saldo-ExtraLight.woff2') format('woff2'),
+        url('Saldo-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Saldo ExtLt';
+    src: url('Saldo-ExtraLightItalic.woff2') format('woff2'),
+        url('Saldo-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Saldo';
+    src: url('Saldo-ThinItalic.woff2') format('woff2'),
+        url('Saldo-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Saldo ExtBd';
+    src: url('Saldo-ExtraBoldItalic.woff2') format('woff2'),
+        url('Saldo-ExtraBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Saldo';
+    src: url('Saldo-RegularItalic.woff2') format('woff2'),
+        url('Saldo-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Saldo';
+    src: url('Saldo-SemiBoldItalic.woff2') format('woff2'),
+        url('Saldo-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Saldo';
+    src: url('Saldo-LightItalic.woff2') format('woff2'),
+        url('Saldo-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Saldo Med';
+    src: url('Saldo-MediumItalic.woff2') format('woff2'),
+        url('Saldo-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Saldo';
+    src: url('Saldo-Medium.woff2') format('woff2'),
+        url('Saldo-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Saldo';
+    src: url('Saldo-SemiBold.woff2') format('woff2'),
+        url('Saldo-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Saldo';
+    src: url('Saldo-Regular.woff2') format('woff2'),
+        url('Saldo-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Saldo';
+    src: url('Saldo-Thin.woff2') format('woff2'),
+        url('Saldo-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
